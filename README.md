@@ -1,4 +1,4 @@
-## Drug-Centric Adaptive Diffusion and Path Learning for Network-Based Drug–Target Interaction Prediction
+## Drug-Centric Adaptive Diffusion and Path Learning for Drug–Target Interaction Prediction
 
 This repository contains the implementation of DCA-DTI, a network-based framework for drug–target interaction prediction.
 
